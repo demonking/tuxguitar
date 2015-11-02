@@ -55,7 +55,7 @@
 
   <properties>
     <!-- dependency versions -->
-    <version.dependency.itextpdf>5.0.2</version.dependency.itextpdf>
+    <version.dependency.itextpdf>5.0.6</version.dependency.itextpdf>
     <version.dependency.jopt-simple>3.2</version.dependency.jopt-simple>
     <version.dependency.junit>4.7</version.dependency.junit>
     <version.dependency.log4j>1.2.14</version.dependency.log4j>
